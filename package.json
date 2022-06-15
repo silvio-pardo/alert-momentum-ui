@@ -1,6 +1,6 @@
 {
   "name": "alert-momentum-ui",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "alert widget for cisco momentum-ui",
   "author": "silvio-pardo",
   "license": "MIT",
@@ -62,5 +62,13 @@
   },
   "files": [
     "dist"
+  ],
+  "keywords": [
+    "momentum-ui",
+    "react",
+    "typescript",
+    "cisco",
+    "alert",
+    "momentum design"
   ]
 }
